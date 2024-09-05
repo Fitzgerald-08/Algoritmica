@@ -1,2 +1,3 @@
 # Algoritmica
-Matricula: 2400944 - Jose Alexandro Marquez Ruiz _
+Matricula: 2400944
+Alumno: Jose Alexandro Marquez Ruiz
