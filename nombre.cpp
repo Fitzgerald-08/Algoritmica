@@ -12,14 +12,6 @@ int main(){
     cin >> apellido;
 
     cout << "Hola " << nombre << " " << apellido;
-
-
-
-    /* printf("Introduzca su nombre: ");
-    scanf("%s", nombre);
-    printf("Introduzca su apellido: ");
-    scanf("%s", apellido);
-    printf("Hola %s %s, buenos días.", nombre, apellido); */
-
+    
     return 0;
 }
